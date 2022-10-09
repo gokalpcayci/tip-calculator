@@ -1,4 +1,4 @@
-live server: tip-calculator-tailwind-react.netlify.app
+live server: https://tip-calculator-tailwind-react.netlify.app/
 
 -------------------------------------------------
 
